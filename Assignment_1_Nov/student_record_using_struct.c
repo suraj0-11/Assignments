@@ -27,6 +27,7 @@ void main()
         printf("INFO : %d\n",i+1);
         printf("USN : %s\nNAME : %s\nMARKS : %d\n",s[i].usn,s[i].name,s[i].marks);
     }
+}
     /*COMMENTS FROM HERE IGNORE KARO 🤷🏻‍♀️
       for(i=0;i<n;i++)
     {
