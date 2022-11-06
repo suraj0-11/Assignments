@@ -27,7 +27,7 @@ void main()
         printf("INFO : %d\n",i+1);
         printf("USN : %s\nNAME : %s\nMARKS : %d\n",s[i].usn,s[i].name,s[i].marks);
     }
-    for(i=0;i<n;i++)
+    /*for(i=0;i<n;i++)
     {
         sum = sum + s[i].marks;
     }
@@ -45,4 +45,4 @@ void main()
     }
     //IMPORTANT USE THIS PRINT STATEMENT AFTER LOOP
     printf("Above average students are %d\nBelow average students are %d\n",countav,countbv);
-}
+}*/
