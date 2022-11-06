@@ -7,8 +7,8 @@ struct student
 }s[10];
 void main()
 {
-    int i,n; //countav=0,countbv=0;
-    //float average,sum;
+    int i,n; //ignore countav=0,countbv=0;
+    //And ignore float average,sum;
     printf("Enter the number of students\n");
     scanf("%d",&n);
     printf("Enter the studet info\n");
